@@ -10,7 +10,8 @@
     { "src": "/(.*)", "dest": "/public/$1" }
   ],
   "env": {
-    "SUPABASE_URL": "https://hfxnwkzkkbxnzbzcoszh.supabase.co",
-    "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhmeG53a3pra2J4bnpiemNvc3poIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjIyMzEyNDQsImV4cCI6MjA3NzgwNzI0NH0.GDmgpXY0cktxwldRMrCz7Yp4ZkZU35_ATdxs8yjOYSsY"
+    "SUPABASE_URL": "https://ajgvijxwsbxokppykkpk.supabase.co",
+    "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFqZ3Zpanh3c2J4b2twcHlra3BrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjIxODA0MjgsImV4cCI6MjA3Nzc1NjQyOH0.QxUX_KbEDP-2f3BLe-rFcYK1l-4fbQg1YZR55QANWOQ"
   }
 }
+
